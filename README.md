@@ -23,6 +23,7 @@ As illustrated below, there are 652,168 documented live trees in NYC. Queens is 
 | **Total** | **652,168**        |
 
 ### Top Tree Species per Borough
+The TreesCount! survey identified 132 species of trees in NYC. See the "NYC_Trees_Count.csv" file for a count of all tree species. Listed below are the top ten tree species found in each borough. Four species (Honeylocust, London Planetree, Callery Pear, and Pin Oak) were in the top ten for each borough. American Elm and American Linden only made the top ten list for Manhattan, while Green Ash was on the top ten list for only Queens and both Sweetgum and Maple were of the ten most common species for only Staten Island. 
 |   | Manhattan | Brooklyn | Queens | Bronx | Staten Island |
 | --- | --- | --- | --- | --- | --- | 
 | 1 | Honeylocust | London Planetree | London Planetree | Honeylocust | Callery Pear |
