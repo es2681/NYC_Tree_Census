@@ -22,6 +22,7 @@ As illustrated below, there are 652,168 documented live trees in NYC. Queens is 
 | Staten Island | 101,443         |
 | **Total** | **652,168**        |
 
+
 ### Top Tree Species per Borough
 The TreesCount! survey identified 132 individual species of trees in NYC. See the [NYC_Trees_Count.csv](https://github.com/es2681/NYC_Tree_Census/blob/main/NYC_Trees_Count.csv) file for a count of all tree species. Listed below are the top ten tree species found in each borough. Four species (Honeylocust, London Planetree, Callery Pear, and Pin Oak) were in the top ten for each borough. American Elm and American Linden only made the top ten list for Manhattan, while Green Ash was on the top ten list for only Queens and both Sweetgum and Maple were of the ten most common species for only Staten Island. 
 |   | Manhattan | Brooklyn | Queens | Bronx | Staten Island |
@@ -37,16 +38,23 @@ The TreesCount! survey identified 132 individual species of trees in NYC. See th
 | 9 | American Elm | Cherry | Green Ash | Ginkgo | Silver Maple |
 | 10 | American Linden | Ginkgo | Silver Maple | Sophora | Maple |
 
-### Top Ten Zip Codes with Trees per 1,000 People
-|   | Neigbhorhood | Borough | Zipcode | # of Trees/1,000 People | 
+
+### Top Zipcodes for Higest Number of Trees per 1,000 People
+Queens and Staten Island had the greatest number zipcodes with high tree/person densities, with 7 and 5 zipcodes in the top 15 zipcodes respectively. The Bronx had 2 zipcodes with the densest tree/person populations. No zipcodes ranked in the top 15 for Brooklyn or Manhattan.
+|   | Neigbhorhood | Borough | Zipcode | # of Trees/<br>1,000 People | 
 | --- | --- | --- | --- | --- | 
-| 1 |  | Manhattan | 10002 | 28.97 |
-| 2 | 
-| 3 | 
-| 4 | 
-| 5 | 
-| 6 | 
-| 7 | 
-| 8 | 
-| 9 | 
-| 10 | 
+| 1 | Little Neck | Queens  | 11363 | 385.01 |
+| 2 | Tottenville | Staten Island | 10307 | 355.70 |
+| 3 | Rossville /<br>Pleasant Plains | Staten Island | 10309 | 355.45 |
+| 4 | Arden Heights /<br>Eltingville | Staten Island | 10312 | 347.86 |
+| 5 | Glen Oaks | Queens | 11004 | 265.27 | 
+| 6 | Bellerose | Queens | 11426 | 236.11 | 
+| 7 | New Dorp | Staten Island | 10306 | 234.16 |
+| 8 | Douglaston | Queens | 11362 | 232.40 |
+| 9 | Great Kills | Staten Island | 10308	| 230.62 |
+| 10 | Pelham Bay | Bronx | 10464 | 229.09 |
+| 11 | Whitestone | Queens | 11357 | 228.82|
+| 12 | Bayside | Queens | 11361 | 218.30|
+| 13 | Fresh Meadows | Queens | 11366 | 203.48 |
+| 14 | Hunts Point | Bronx | 10474 | 202.15 |
+| 15 | Oakland Gardens | Queens | 11364 | 185.86|
