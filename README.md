@@ -11,7 +11,7 @@ The purpose of this evaluation was to identify the total number of live trees in
 
 ## Results
 ### Number of Trees per Borough
-As demonstrated below, there are 652,168 documented live trees in NYC. Queens is the borough with the largest number of live trees, with a total of 237,970 trees, while Manhattan has the fewest number of trees with 62,427 trees. 
+As indicated below, there are 652,168 documented live trees in NYC. Queens is the borough with the largest number of live trees, with a total of 237,970 trees, while Manhattan has the fewest number of trees with 62,427 trees. 
 
 | Borough     | Number of Trees |
 | ---      | ---       |
