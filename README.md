@@ -11,7 +11,7 @@ The purpose of this evaluation was to identify the total number of live trees in
 
 ## Results
 ### Number of Trees per Borough
-As indicated below, there are 652,168 documented live trees in NYC. Queens is the borough with the largest number of live trees, with a total of 237,970 trees, while Manhattan has the fewest number of trees with 62,427 trees. 
+As indicated below, there are 652,168 documented live trees in NYC. Queens is the borough with the largest number of live trees, totaling 237,970 trees, while Manhattan has the fewest number of trees with 62,427 trees. 
 
 | Borough     | Number of Trees |
 | ---      | ---       |
@@ -24,7 +24,7 @@ As indicated below, there are 652,168 documented live trees in NYC. Queens is th
 
 
 ### Top Tree Species per Borough
-The TreesCount! survey identified 132 individual species of trees in NYC. See the [NYC_Trees_Count.csv](https://github.com/es2681/NYC_Tree_Census/blob/main/NYC_Trees_Count.csv) file for a count of all tree species. Listed below are the top ten tree species found in each borough. Four species (Honeylocust, London Planetree, Callery Pear, and Pin Oak) were in the top ten for each borough. American Elm and American Linden only made the top ten list for Manhattan, while Green Ash was on the top ten list for only Queens and both Sweetgum and Maple were of the ten most common species for only Staten Island. 
+The TreesCount! survey identified 132 individual species of trees in NYC. See the [NYC_Trees_Count.csv](https://github.com/es2681/NYC_Tree_Census/blob/main/NYC_Trees_Count.csv) file for a count of all tree species. Listed below are the top ten tree species found in each borough. Four species (Honeylocust, London Planetree, Callery Pear, and Pin Oak) were in the top ten for all boroughs. American Elm and American Linden made the top ten only in Manhattan, while Green Ash was only in the top ten for Queens. Both Sweetgum and Maple were of the ten most common species for only Staten Island. 
 | Rank | Manhattan | Brooklyn | Queens | Bronx | Staten Island |
 | --- | --- | --- | --- | --- | --- | 
 | 1 | Honeylocust | London Planetree | London Planetree | Honeylocust | Callery Pear |
